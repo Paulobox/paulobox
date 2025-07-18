@@ -39,13 +39,6 @@
 
 <br>
 
-### GitHub Metrics
-
-<p align="left"><img src="https://raw.githubusercontent.com/Paulobox/paulobox/main/github-metrics.svg" /></p>
-
-
-
-
 
 
 
